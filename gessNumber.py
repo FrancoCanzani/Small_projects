@@ -11,6 +11,6 @@ def guess(x):
             print('Sorry, guess again. Too high')
         
 
-    print('Congrats! You just guesses the number').text
+    print('Congrats! You just guesses the number')knnkkln
 
 guess(10)
